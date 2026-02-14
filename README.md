@@ -19,41 +19,24 @@ I enjoy building systems from the physics level up to software automation.
 🔧 Post-Silicon Validation & Hardware Debug
 
 🤖 Automation & Technical Tool Development
-- 🛠 Technical Skills
+- 🚀 Technical Stack
+💻 Programming Languages
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> </p>
+🔬 Hardware & FPGA
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/> <img src="https://img.shields.io/badge/VHDL-00427E?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FPGA-FF6F00?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-8B0000?style=for-the-badge&logoColor=white"/> </p>
+📡 Engineering Domains
 
-Programming
+Signal Processing
 
-Python (OOP, data processing, automation)
+Communication Systems
 
-MATLAB (Signal processing, audio systems)
+MOSFET & Analog Circuit Design
 
-VHDL (FPGA design – Quartus)
+Differential & Common Source Amplifiers
 
-C / C++
+Post-Silicon Validation
 
-Hardware & Tools
-
-LTspice
-
-Oscilloscopes & Lab Equipment
-
-Signal Integrity Measurements
-
-FPGA Development
-
-Linux & Git
-
-Engineering Domains
-
-MOSFET & BJT circuit design
-
-Differential & Common Source amplifiers
-
-Audio compressor DSP design
-
-Logistic Regression from scratch (ML fundamentals)
-
-Hardware validation & debugging
+Hardware Debugging & Automation
 -  🎵 Beyond Engineering
 
 producer, songwriter & sound design enthusiast.
