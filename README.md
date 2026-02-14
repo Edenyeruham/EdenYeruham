@@ -20,6 +20,7 @@ I enjoy building systems from the physics level up to software automation.
 
 🤖 Automation & Technical Tool Development
 - 🚀 Technical Stack
+  
 💻 Programming Languages
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/> </p>
 🔬 Hardware & FPGA
