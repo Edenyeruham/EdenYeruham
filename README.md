@@ -5,9 +5,6 @@ Electrical Engineering B.Sc (3rd Year) | Practical Electrical Engineer | Hardwar
 I’m passionate about semiconductors, signal processing, embedded systems, and algorithm development.
 I enjoy building systems from the physics level up to software automation.
 
-<--
-
-
 - 🔬 What I’m Focused On
 
 📡 Communication Systems & Signal Processing
@@ -47,4 +44,3 @@ I love exploring the intersection between engineering and music....
 GitHub: https://github.com/Edenyeruham
 
 LinkedIn: https://www.linkedin.com/in/eden-yeruham-099247228/
--->
